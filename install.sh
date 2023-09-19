@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#this is a test commit
+
 ## Script will check if zsh and git are installed. 
 ## If script returns any non-zero exit code then break.
 
