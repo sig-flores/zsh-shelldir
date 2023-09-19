@@ -2,6 +2,8 @@
 
 
 #this is a test commit
+#another test
+
 
 ## Script will check if zsh and git are installed. 
 ## If script returns any non-zero exit code then break.
