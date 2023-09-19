@@ -8,6 +8,9 @@
 ## Script will check if zsh and git are installed. 
 ## If script returns any non-zero exit code then break.
 
+
+
+##this is the other feature branch
 if command -v zsh &> /dev/null && command -v git &> /dev/null && command -v wget &> /dev/null; then
     echo -e "ZSH and Git are already installed\n"
 else
